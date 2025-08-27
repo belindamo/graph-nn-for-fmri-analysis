@@ -7,20 +7,22 @@
 ## Available Datasets
 
 ### Dataset 1
-- **Name**: 
-- **Source**: 
-- **Size**: 
-- **Features**: 
-- **License**: 
-- **Preprocessing**: 
+
+* **Name**:
+* **Source**:
+* **Size**:
+* **Features**:
+* **License**:
+* **Preprocessing**:
 
 ### Dataset 2
-- **Name**: 
-- **Source**: 
-- **Size**: 
-- **Features**: 
-- **License**: 
-- **Preprocessing**: 
+
+* **Name**:
+* **Source**:
+* **Size**:
+* **Features**:
+* **License**:
+* **Preprocessing**:
 
 ## Benchmarks
 
