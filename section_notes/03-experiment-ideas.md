@@ -7,16 +7,18 @@
 ## Planned Experiments
 
 ### Experiment 1
-- **Objective**: 
-- **Methodology**: 
-- **Expected Outcomes**: 
-- **Success Metrics**: 
+
+* **Objective**:
+* **Methodology**:
+* **Expected Outcomes**:
+* **Success Metrics**:
 
 ### Experiment 2
-- **Objective**: 
-- **Methodology**: 
-- **Expected Outcomes**: 
-- **Success Metrics**: 
+
+* **Objective**:
+* **Methodology**:
+* **Expected Outcomes**:
+* **Success Metrics**:
 
 ## Timeline
 
