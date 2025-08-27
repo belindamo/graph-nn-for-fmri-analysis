@@ -7,16 +7,18 @@
 ## Key Papers
 
 ### Paper 1
-- **Title**: 
-- **Authors**: 
-- **Key Findings**: 
-- **Relevance**: 
+
+* **Title**:
+* **Authors**:
+* **Key Findings**:
+* **Relevance**:
 
 ### Paper 2
-- **Title**: 
-- **Authors**: 
-- **Key Findings**: 
-- **Relevance**: 
+
+* **Title**:
+* **Authors**:
+* **Key Findings**:
+* **Relevance**:
 
 ## Research Gaps
 
